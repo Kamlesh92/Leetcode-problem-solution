@@ -13,12 +13,14 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
