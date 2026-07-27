@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,5 +56,10 @@
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
