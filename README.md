@@ -12,6 +12,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -65,4 +66,20 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
