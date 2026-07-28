@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
