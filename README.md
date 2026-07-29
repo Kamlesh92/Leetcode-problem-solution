@@ -8,6 +8,7 @@
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +95,12 @@
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0262-trips-and-users) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
