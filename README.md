@@ -58,6 +58,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
