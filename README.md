@@ -41,6 +41,7 @@
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
 | [0788-rotated-digits](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0788-rotated-digits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
@@ -77,6 +78,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
