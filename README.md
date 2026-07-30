@@ -24,6 +24,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3614-process-string-with-special-operations-ii) |
 ## Recursion
@@ -48,6 +49,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
