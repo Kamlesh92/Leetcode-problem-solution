@@ -9,6 +9,7 @@
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -21,6 +22,7 @@
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3614-process-string-with-special-operations-ii) |
 ## Recursion
@@ -87,6 +89,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
