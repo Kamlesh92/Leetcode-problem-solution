@@ -87,6 +87,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
@@ -107,6 +108,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3614-process-string-with-special-operations-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
