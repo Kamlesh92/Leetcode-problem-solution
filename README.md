@@ -22,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -41,6 +42,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
 | [0788-rotated-digits](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0788-rotated-digits) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
