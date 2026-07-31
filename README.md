@@ -62,6 +62,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -94,6 +95,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3488-closest-equal-element-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -180,6 +182,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [3488-closest-equal-element-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Enumeration
 |  |
