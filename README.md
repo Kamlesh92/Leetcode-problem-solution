@@ -104,6 +104,7 @@
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3614-process-string-with-special-operations-ii) |
 ## Greedy
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
