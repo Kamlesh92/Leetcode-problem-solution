@@ -61,6 +61,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
