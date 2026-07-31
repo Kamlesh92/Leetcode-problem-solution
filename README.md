@@ -83,6 +83,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
