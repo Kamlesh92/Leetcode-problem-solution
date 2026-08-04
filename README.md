@@ -35,6 +35,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -60,6 +61,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
+| [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -115,6 +117,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2906-construct-product-matrix) |
@@ -164,6 +167,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -177,6 +181,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -255,6 +260,7 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 ## Design
 |  |
 | ------- |
