@@ -214,6 +214,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3310-remove-methods-from-project](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3310-remove-methods-from-project](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2751-robot-collisions) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
