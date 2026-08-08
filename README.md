@@ -270,6 +270,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
