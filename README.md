@@ -14,6 +14,7 @@
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -131,6 +132,7 @@
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
@@ -331,5 +333,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
