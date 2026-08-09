@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0877-stone-game) |
@@ -371,4 +373,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
