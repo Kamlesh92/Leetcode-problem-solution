@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -67,6 +68,7 @@
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -123,6 +125,7 @@
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -282,6 +285,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2906-construct-product-matrix) |
@@ -315,6 +319,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
@@ -350,4 +355,12 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
