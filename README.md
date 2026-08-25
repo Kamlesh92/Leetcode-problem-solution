@@ -118,6 +118,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -197,6 +198,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
