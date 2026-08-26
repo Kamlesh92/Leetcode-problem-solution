@@ -1,66 +1,52 @@
+from bisect import bisect_left, bisect_right
+
 class Solution:
-    def maxWalls(self, robots: List[int], distance: List[int], walls: List[int]) -> int:
-        n = len(robots)
-
-        # Store robots as [position, distance]
-        x = [[robots[i], distance[i]] for i in range(n)]
-
-        # Sort robots and walls
-        x.sort()
+    def maxWalls(self, robots, distance, walls):
+        robots = sorted(zip(robots, distance))
         walls.sort()
-
-        # Dummy robot
-        x.append([10**9, 0])
-
-        # Function to count walls in range [l, r]
-        def query(l, r):
-            if l > r:
-                return 0
-            return bisect.bisect_right(walls, r) - bisect.bisect_left(walls, l)
-
-        # dp[i][0] = shoot LEFT
-        # dp[i][1] = shoot RIGHT
-        dp = [[0, 0] for _ in range(n)]
-
-        # Base case
-        dp[0][0] = query(x[0][0] - x[0][1], x[0][0])
-
-        if n > 1:
-            dp[0][1] = query(
-                x[0][0],
-                min(x[1][0] - 1, x[0][0] + x[0][1])
-            )
-        else:
-            dp[0][1] = query(x[0][0], x[0][0] + x[0][1])
-
-        # DP transitions
+        
+        n = len(robots)
+        left = [0] * n
+        right = [0] * n
+        num = [0] * n
+        
+        for i in range(n):
+            pos, dist = robots[i]
+            
+            pos1 = bisect_right(walls, pos)
+            
+            if i >= 1:
+                left_bound = max(pos - dist, robots[i - 1][0] + 1)
+                left_pos = bisect_left(walls, left_bound)
+            else:
+                left_pos = bisect_left(walls, pos - dist)
+            
+            left[i] = pos1 - left_pos
+            
+            if i < n - 1:
+                right_bound = min(pos + dist, robots[i + 1][0] - 1)
+                right_pos = bisect_right(walls, right_bound)
+            else:
+                right_pos = bisect_right(walls, pos + dist)
+            
+            pos2 = bisect_left(walls, pos)
+            right[i] = right_pos - pos2
+            
+            if i == 0:
+                continue
+            
+            pos3 = bisect_left(walls, robots[i - 1][0])
+            num[i] = pos1 - pos3
+        
+        sub_left, sub_right = left[0], right[0]
+        
         for i in range(1, n):
-
-            # Case 1: shoot RIGHT
-            dp[i][1] = max(dp[i - 1][0], dp[i - 1][1]) + \
-                       query(
-                           x[i][0],
-                           min(x[i + 1][0] - 1, x[i][0] + x[i][1])
-                       )
-
-            # Case 2: shoot LEFT (no overlap)
-            dp[i][0] = dp[i - 1][0] + \
-                       query(
-                           max(x[i][0] - x[i][1], x[i - 1][0] + 1),
-                           x[i][0]
-                       )
-
-            # Case 3: shoot LEFT with overlap handling
-            leftStart = max(x[i][0] - x[i][1], x[i - 1][0] + 1)
-            leftEnd = x[i][0]
-
-            overlapStart = leftStart
-            overlapEnd = min(x[i - 1][0] + x[i - 1][1], x[i][0] - 1)
-
-            res = dp[i - 1][1] + \
-                  query(leftStart, leftEnd) - \
-                  query(overlapStart, overlapEnd)
-
-            dp[i][0] = max(dp[i][0], res)
-
-        return max(dp[n - 1][0], dp[n - 1][1])
+            current_left = max(
+                sub_left + left[i],
+                sub_right - right[i - 1] + min(left[i] + right[i - 1], num[i]),
+            )
+            current_right = max(sub_left + right[i], sub_right + right[i])
+            
+            sub_left, sub_right = current_left, current_right
+        
+        return max(sub_left, sub_right)
