@@ -1,26 +1,30 @@
 class Solution:
-    def robotSim(self, commands: List[int], obstacles: List[List[int]]) -> int:
-        obSet=set()
-        for (x, y) in obstacles:
-            obSet.add((x, y))
-        dir=[(0, 1), (-1, 0), (0, -1), (1, 0)]
-        x, y,dx, dy, face, maxD2=0, 0, 0,1, 0, 0
-        for  c in commands:
-            if c==-2:
-                face=(face+1)&3
-                dx=dir[face][0]
-                dy=dir[face][1]
-            elif c==-1:
-                face=(face+3)&3
-                dx=dir[face][0]
-                dy=dir[face][1]
+    def robotSim(self, commands, obstacles):
+        st = set()
+        
+        for x, y in obstacles:
+            st.add((x, y))
+
+        dir = [(0,1), (1,0), (0,-1), (-1,0)]
+
+        x = y = 0
+        d = 0
+        maxDist = 0
+
+        for cmd in commands:
+            if cmd == -1:
+                d = (d + 1) % 4
+            elif cmd == -2:
+                d = (d + 3) % 4
             else:
-                for i in range(c):
-                    x+=dx
-                    y+=dy
-                    if (x, y) in obSet:
-                        x-=dx
-                        y-=dy
+                for _ in range(cmd):
+                    nx = x + dir[d][0]
+                    ny = y + dir[d][1]
+
+                    if (nx, ny) in st:
                         break
-                maxD2=max(maxD2, x*x+y*y)
-        return maxD2
+
+                    x, y = nx, ny
+                    maxDist = max(maxDist, x*x + y*y)
+
+        return maxDist
