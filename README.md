@@ -171,6 +171,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -251,6 +252,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1927-sum-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
