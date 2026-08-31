@@ -1,61 +1,53 @@
-class Solution:
-    MOD = 1000000007
-
-    def modExp(self, base, exp):
-        if exp == 0:
-            return 1
+class Solution(object):
+    def xorAfterQueries(self, nums, queries):
+        MOD = 10**9 + 7
+        n = len(nums)
         
-        half = self.modExp(base, exp // 2)
-        result = (half * half) % self.MOD
-
-        if exp % 2:
-            result = (result * base) % self.MOD
-
-        return result
-
-    def xorAfterQueries(self, arr, ops):
-        n = len(arr)
-        block = int(n ** 0.5) + 1
-
-        buckets = [[] for _ in range(block)]
-
-        for query in ops:
-            left, right, step, val = query
-
-            if step < block:
-                buckets[step].append(query)
+        import math
+        B = int(math.sqrt(n)) + 1
+        
+        groups = {}
+        large_queries = []
+        
+        for i, (l, r, k, v) in enumerate(queries):
+            if k <= B:
+                key = (k, l % k)
+                if key not in groups:
+                    groups[key] = []
+                groups[key].append(i)
             else:
-                pos = left
-                while pos <= right:
-                    arr[pos] = (arr[pos] * val) % self.MOD
-                    pos += step
-
-        for step in range(1, block):
-            if not buckets[step]:
-                continue
-
-            multiplier = [1] * (n + step + 5)
-
-            for query in buckets[step]:
-                left, right, _, val = query
-
-                lastIndex = left + ((right - left) // step) * step
-                stop = lastIndex + step
-
-                multiplier[left] = (multiplier[left] * val) % self.MOD
-
-                invVal = self.modExp(val, self.MOD - 2)
-                multiplier[stop] = (multiplier[stop] * invVal) % self.MOD
-
-            for i in range(n):
-                if i - step >= 0:
-                    multiplier[i] = (multiplier[i] * multiplier[i - step]) % self.MOD
-
-            for i in range(n):
-                arr[i] = (arr[i] * multiplier[i]) % self.MOD
-
-        ans = 0
-        for value in arr:
-            ans ^= value
-
-        return ans
+                large_queries.append(i)
+        
+        for (k, rem), qs in groups.items():
+            m = (n - rem + k - 1) // k  
+            diff = [1] * (m + 1)
+            
+            for qi in qs:
+                l, r, _, v = queries[qi]
+                start = (l - rem + k - 1) // k
+                end = (r - rem) // k
+                
+                if start <= end:
+                    diff[start] = diff[start] * v % MOD
+                    inv_v = pow(v, MOD - 2, MOD)
+                    diff[end + 1] = diff[end + 1] * inv_v % MOD
+            
+            cur = 1
+            idx = rem
+            for i in range(m):
+                cur = cur * diff[i] % MOD
+                nums[idx] = nums[idx] * cur % MOD
+                idx += k
+        
+        for qi in large_queries:
+            l, r, k, v = queries[qi]
+            idx = l
+            while idx <= r:
+                nums[idx] = nums[idx] * v % MOD
+                idx += k
+        
+        res = 0
+        for x in nums:
+            res ^= x
+        
+        return res
