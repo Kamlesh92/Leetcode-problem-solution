@@ -32,6 +32,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
