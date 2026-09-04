@@ -32,6 +32,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
