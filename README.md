@@ -216,6 +216,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -372,6 +373,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
