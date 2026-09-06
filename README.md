@@ -38,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
