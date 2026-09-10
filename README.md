@@ -318,16 +318,19 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
