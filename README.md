@@ -60,6 +60,7 @@
 | [1927-sum-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -102,6 +103,7 @@
 | [1872-stone-game-viii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -284,6 +286,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -361,6 +364,7 @@
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
