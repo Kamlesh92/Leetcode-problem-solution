@@ -15,6 +15,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
@@ -100,6 +101,7 @@
 | [1406-stone-game-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
@@ -350,6 +352,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -396,6 +399,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1872-stone-game-viii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
