@@ -53,6 +53,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -129,6 +130,7 @@
 | [0874-walking-robot-simulation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -154,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -283,6 +286,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
