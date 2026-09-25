@@ -56,6 +56,7 @@
 | [0657-robot-return-to-origin](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -136,6 +137,7 @@
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
 | [0874-walking-robot-simulation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
+| [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -447,6 +451,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3310-remove-methods-from-project) |
@@ -496,6 +501,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [2751-robot-collisions](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2751-robot-collisions) |
 ## Graph Theory
 |  |
