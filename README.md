@@ -64,6 +64,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -143,6 +144,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -207,6 +209,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
