@@ -117,6 +117,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
@@ -225,6 +226,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
@@ -343,6 +345,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -590,4 +593,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
