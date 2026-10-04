@@ -201,6 +201,7 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0275-h-index-ii) |
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0874-walking-robot-simulation) |
@@ -421,6 +422,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0275-h-index-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
