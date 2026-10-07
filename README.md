@@ -55,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0796-rotate-string) |
@@ -374,6 +375,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -472,6 +474,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1559-detect-cycles-in-2d-grid) |
