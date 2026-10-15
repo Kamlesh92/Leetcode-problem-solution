@@ -160,6 +160,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -249,6 +250,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -602,6 +604,7 @@
 | ------- |
 | [1622-fancy-sequence](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Fermat's Little Theorem
 |  |
@@ -634,4 +637,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
