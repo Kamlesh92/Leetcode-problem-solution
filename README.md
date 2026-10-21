@@ -99,6 +99,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
 |  |
 | ------- |
