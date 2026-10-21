@@ -91,6 +91,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3093-longest-common-suffix-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -262,6 +263,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3093-longest-common-suffix-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -648,4 +650,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
