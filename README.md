@@ -25,6 +25,7 @@
 | [1927-sum-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -81,6 +82,7 @@
 | [1927-sum-game](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
