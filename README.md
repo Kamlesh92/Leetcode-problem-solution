@@ -8,6 +8,7 @@
 | [0264-ugly-number-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0273-integer-to-english-words) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0836-rectangle-overlap) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -222,6 +224,7 @@
 | [0274-h-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0275-h-index-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/0874-walking-robot-simulation) |
