@@ -172,6 +172,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -209,6 +210,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -267,6 +269,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -571,6 +574,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
