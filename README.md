@@ -151,6 +151,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -312,6 +313,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3731-find-missing-elements) |
