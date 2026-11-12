@@ -287,6 +287,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
