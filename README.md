@@ -293,6 +293,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -594,6 +595,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
 |  |
@@ -614,6 +616,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2751-robot-collisions](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -638,6 +641,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimax
 |  |
 | ------- |
@@ -671,6 +675,7 @@
 | [1622-fancy-sequence](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Fermat's Little Theorem
 |  |
@@ -712,4 +717,12 @@
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3093-longest-common-suffix-queries) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kamlesh92/Leetcode-problem-solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
